@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "satauri";
+    src: url(satauri/JacquesFrancoisShadow-Regular.ttf);
+}
+@font-face {
+    font-family: "paragraph1";
+    src: url(paragraph1/OriginalSurfer-Regular.ttf);
+}
+@font-face {
+    font-family: "paragraph2";
+    src: url(paragraph2/Play-Regular.ttf);
+}
+h2{
+    font-family: "satauri";
+}
+.teqsti1{
+    font-family: "paragraph1";
+}
+.teqsti2{
+    font-family: "paragraph2";
+}
