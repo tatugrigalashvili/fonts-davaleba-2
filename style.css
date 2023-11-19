@@ -1,14 +1,14 @@
 @font-face {
     font-family: "satauri";
-    src: url(satauri/JacquesFrancoisShadow-Regular.ttf);
+    src: url(satauri.ttf);
 }
 @font-face {
     font-family: "paragraph1";
-    src: url(paragraph1/OriginalSurfer-Regular.ttf);
+    src: url(paragraph1.ttf);
 }
 @font-face {
     font-family: "paragraph2";
-    src: url(paragraph2/Play-Regular.ttf);
+    src: url(paragraph2.ttf);
 }
 h2{
     font-family: "satauri";
